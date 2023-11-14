@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         RandProductsSearch frame = new RandProductsSearch();
-
+//
         frame.setTitle("Product Search");
         Dimension dimension = Toolkit.getDefaultToolkit().getScreenSize();
         int width = (dimension.width)/2+ (dimension.width)/4;
